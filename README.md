@@ -33,16 +33,6 @@ Materiais relacionados às máquinas, implementos e operações mecanizadas util
 - Velocidade de operação
 - Práticas de mecanização agrícola
 
-### 📊 Experimentação Agrícola
-
-Área destinada a estudos relacionados à experimentação e análise de dados agrícolas.
-
-- Delineamentos experimentais
-- ANOVA
-- Testes de comparação de médias
-- Interpretação de gráficos e tabelas
-- Análise de resultados
-
 ### 📚 Projetos Acadêmicos
 
 Trabalhos, estudos e atividades desenvolvidos durante minha formação acadêmica em Agronomia.
