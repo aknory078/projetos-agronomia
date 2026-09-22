@@ -1,35 +1,73 @@
-# 🚜 Calculadora de Pulverização Agrícola
+# 🌱 Projetos de Agronomia
 
-Projeto didático desenvolvido para aplicar conceitos de mecanização agrícola e tecnologia de aplicação em uma ferramenta simples de cálculo.
+Repositório destinado à organização de projetos, estudos, atividades acadêmicas e materiais relacionados à minha formação em Agronomia, agronegócio, tecnologia e inovação.
 
-## 📌 Funcionalidades
+## 📚 Áreas
 
-- Cálculo da taxa de aplicação em L/ha;
-- Cálculo da vazão total do pulverizador;
-- Estimativa da vazão necessária por bico para uma taxa desejada;
-- Interface responsiva para computador e celular.
+### 🌱 Agricultura de Precisão
 
-## 🧮 Fórmula utilizada
+Formações e materiais relacionados ao uso de geotecnologias e tecnologias aplicadas à agricultura.
 
-**Taxa de aplicação (L/ha) = (600 × vazão do bico) ÷ (velocidade × espaçamento)**
+- Introdução ao QGIS
+- Operação de Drones
+- Geoprocessamento
+- Análise espacial
+- Tecnologias aplicadas à agricultura
 
-Onde:
+### 🌾 Classificação e Armazenamento de Grãos
 
-- Vazão = L/min por bico;
-- Velocidade = km/h;
-- Espaçamento = distância entre bicos em metros.
+Formações relacionadas à classificação, qualidade e conservação de grãos.
 
-## 🌱 Aplicação
+- Classificação de grãos – Milho e Soja
+- Classificação de grãos – Trigo
+- Armazenamento de grãos em sacarias
 
-A ferramenta foi criada como recurso didático relacionado aos estudos de mecanização agrícola e tecnologia de aplicação, permitindo visualizar a relação entre vazão, velocidade, espaçamento e taxa de aplicação.
+### 🚜 Mecanização Agrícola
 
-## ▶️ Como usar
+Materiais relacionados às máquinas, implementos e operações mecanizadas utilizadas na agricultura.
 
-Abra o arquivo `index.html` em um navegador e informe os parâmetros solicitados.
+- Tecnologia de aplicação de defensivos
+- Pulverização agrícola
+- Regulagem de máquinas
+- Vazão e volume de aplicação
+- Velocidade de operação
+- Práticas de mecanização agrícola
 
-> **Observação:** esta é uma ferramenta didática. Em uma aplicação real, os resultados devem ser conferidos considerando a regulagem do equipamento, as condições de operação e as recomendações técnicas aplicáveis.
+### 📊 Experimentação Agrícola
+
+Área destinada a estudos relacionados à experimentação e análise de dados agrícolas.
+
+- Delineamentos experimentais
+- ANOVA
+- Testes de comparação de médias
+- Interpretação de gráficos e tabelas
+- Análise de resultados
+
+### 📚 Projetos Acadêmicos
+
+Trabalhos, estudos e atividades desenvolvidos durante minha formação acadêmica em Agronomia.
+
+## 💻 Projeto em destaque
+
+### 🚜 Calculadora de Pulverização Agrícola
+
+Projeto didático desenvolvido para aplicar conceitos de mecanização agrícola e tecnologia de aplicação em uma ferramenta de cálculo.
+
+A calculadora permite estimar:
+
+- Taxa de aplicação;
+- Vazão total do pulverizador;
+- Vazão necessária por bico;
+- Relação entre velocidade, vazão e espaçamento.
+
+📁 **[Acessar o projeto](./calculadora-pulverizacao/)**
+
+## 🎯 Objetivo
+
+Organizar e apresentar conhecimentos, projetos e formações relacionados à Agronomia, agronegócio, tecnologia e inovação.
 
 ---
 
-**Aline Stephanie Fernandes da Silva**  
+**Aline Stephanie Fernandes da Silva**
+
 Agronomia • Agronegócio • Tecnologia • Inovação
